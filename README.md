@@ -1,4 +1,4 @@
-# Baffa-2 Printer Interface [![Hackaday.io](https://img.shields.io/badge/Hackaday.io--blue.svg)](https://hackaday.io/project/183266-baffa-2-homebrew-microcomputer)
+# Baffa-2 Printer Interface [![Hackaday.io](https://img.shields.io/badge/Hackaday.io--blue.svg)](https://smallcomputercentral.wordpress.com/sc103-z80-pio-module-rc2014/)
 This is an old school printer interface for the Baffa-2 Homebrew computer. The interface is based on the (SC103 Z80 PIO https://www.tindie.com/products/tindiescx/sc103-z80-pio-module-kit-for-rc2014/) board created by Stephen Cousins for RC2014 and modified to support the centronics cable via DB25 connector.
 
 
