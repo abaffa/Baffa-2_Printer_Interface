@@ -1,11 +1,11 @@
 1 REM ******************************
-2 REM *   Z80 PIO - PRINTER DEMO   *
-3 REM *    Compatible with SC103   *
-4 REM *   Z80 PIO MODULE (RC2014)  *
-5 REM ******************************
-6 REM *  by Augusto Baffa          *
-7 REM *  https://github.com/abaffa *
-8 REM ******************************
+2 REM * Baffa-2 PIO - PRINTER DEMO *
+3 REM *       Z80 PIO MODULE       *
+4 REM *      by Augusto Baffa      *
+5 REM *   Compatible with SC103    *
+6 REM ******************************
+7 REM https://hackaday.io/project/184897-baffa-2-printer-interface
+8 REM https://hackaday.io/project/183266-baffa-2-homebrew-microcomputer
 
 9 REM SET PIO AND RESET PRINTER AN
 10 OUT &H68,0
