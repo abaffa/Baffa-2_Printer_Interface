@@ -20,6 +20,23 @@ Baffa-2 Homebrew Computer is proudly sponsored by [PCBWay](https://www.pcbway.co
 
 ![rc2014_pio](_images/rc2014_parallel_io.png)
 
+## Bill of Materials
+
+Qty | Value | Parts | Description |
+|:---:|:----------:|:-----|:-----|
+| 4 | 100nf | C1, C2, C3, C4 | CAPACITOR |
+| 1 | 100uf | C5 | POLARIZED CAPACITOR |
+| 1 | 10k | RN1 | RESISTOR NETWORK |
+| 1 | 74LS08N | IC3 | Quad 2-input AND gate |
+| 1 | 74LS688N | IC2 | 8-bit MAGNITUDE/IDENTITY COMPARATOR |
+| 1 | SW_DIP-6 | SW1 | DIP SWITCH |
+| 1 | PINHD-1X2 | P4 | PIN HEADER |
+| 1 | Z80PIO | IC1 | Z80 FAMILY DEVICE |
+| 1 | PINHD-1X40 | J1 | PIN HEADER |
+| 1 | JP13Q | P2 | PIO Header DIL |
+| 1 | DB25H | P3 | DB25 connector |
+
+
 ## License
 
 Copyright (c) 2022 Augusto Baffa
