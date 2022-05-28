@@ -23,7 +23,7 @@ Baffa-2 Homebrew Computer is proudly sponsored by [PCBWay](https://www.pcbway.co
 
 ## Bill of Materials
 
-Qty | Value | Parts | Description |
+| Qty | Value | Parts | Description |
 |:---:|:----------:|:-----|:-----|
 | 4 | 100nf | C1, C2, C3, C4 | CAPACITOR |
 | 1 | 100uf | C5 | POLARIZED CAPACITOR |
